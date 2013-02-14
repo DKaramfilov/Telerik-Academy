@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_marks\bin\Debug\KA_marks.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_marks\bin\Debug\KA_marks.pdb
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_marks\obj\Debug\KA_marks.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_marks\obj\Debug\KA_marks.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_marks\obj\Debug\KA_marks.pdb

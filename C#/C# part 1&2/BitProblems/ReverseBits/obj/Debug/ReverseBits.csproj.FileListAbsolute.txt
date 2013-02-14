@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\BitProblems\ReverseBits\bin\Debug\ReverseBits.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\ReverseBits\bin\Debug\ReverseBits.pdb
+C:\Users\Mitko\Documents\exam projects\BitProblems\ReverseBits\obj\Debug\ReverseBits.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\ReverseBits\obj\Debug\ReverseBits.pdb

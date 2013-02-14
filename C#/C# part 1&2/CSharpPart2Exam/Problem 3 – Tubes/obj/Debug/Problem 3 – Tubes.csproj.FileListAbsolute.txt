@@ -1,0 +1,4 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 3 – Tubes\bin\Debug\Problem 3 – Tubes.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 3 – Tubes\bin\Debug\Problem 3 – Tubes.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 3 – Tubes\obj\Debug\Problem 3 – Tubes.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 3 – Tubes\obj\Debug\Problem 3 – Tubes.pdb

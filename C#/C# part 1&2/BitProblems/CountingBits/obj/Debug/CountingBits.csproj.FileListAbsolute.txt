@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\BitProblems\CountingBits\bin\Debug\CountingBits.exe.config
+C:\Users\Mitko\Documents\exam projects\BitProblems\CountingBits\bin\Debug\CountingBits.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\CountingBits\bin\Debug\CountingBits.pdb
+C:\Users\Mitko\Documents\exam projects\BitProblems\CountingBits\obj\Debug\CountingBits.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\CountingBits\obj\Debug\CountingBits.pdb

@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Pillars\bin\Debug\Problem 5 – Pillars.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Pillars\bin\Debug\Problem 5 – Pillars.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Pillars\obj\Debug\Problem 5 – Pillars.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Pillars\obj\Debug\Problem 5 – Pillars.pdb

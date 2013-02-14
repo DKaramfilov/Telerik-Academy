@@ -1,0 +1,4 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 1 – Genome Decoder\bin\Debug\Problem 1 – Genome Decoder.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 1 – Genome Decoder\bin\Debug\Problem 1 – Genome Decoder.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 1 – Genome Decoder\obj\Debug\Problem 1 – Genome Decoder.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 1 – Genome Decoder\obj\Debug\Problem 1 – Genome Decoder.pdb

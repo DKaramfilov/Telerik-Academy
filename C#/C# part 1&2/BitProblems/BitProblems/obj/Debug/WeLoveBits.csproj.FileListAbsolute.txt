@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\BitProblems\BitProblems\bin\Debug\BitProblems.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\BitProblems\bin\Debug\BitProblems.pdb
+C:\Users\Mitko\Documents\exam projects\BitProblems\BitProblems\obj\Debug\BitProblems.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\BitProblems\obj\Debug\BitProblems.pdb

@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\firTree\bin\Debug\firTree.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\firTree\bin\Debug\firTree.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\firTree\obj\Debug\firTree.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\firTree\obj\Debug\firTree.pdb

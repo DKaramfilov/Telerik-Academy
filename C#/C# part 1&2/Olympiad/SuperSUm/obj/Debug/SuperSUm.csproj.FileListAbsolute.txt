@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\SuperSUm\bin\Debug\SuperSUm.exe.config
+C:\Users\Mitko\Documents\exam projects\Olympiad\SuperSUm\bin\Debug\SuperSUm.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\SuperSUm\bin\Debug\SuperSUm.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\SuperSUm\obj\Debug\SuperSUm.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Olympiad\SuperSUm\obj\Debug\SuperSUm.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\SuperSUm\obj\Debug\SuperSUm.pdb

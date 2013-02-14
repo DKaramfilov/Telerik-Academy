@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Fighter Attack\bin\Debug\Problem 1 – Fighter Attack.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Fighter Attack\bin\Debug\Problem 1 – Fighter Attack.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Fighter Attack\obj\Debug\Problem 1 – Fighter Attack.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Fighter Attack\obj\Debug\Problem 1 – Fighter Attack.pdb

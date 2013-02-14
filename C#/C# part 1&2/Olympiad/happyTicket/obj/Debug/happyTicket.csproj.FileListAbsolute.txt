@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\happyTicket\bin\Debug\happyTicket.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\happyTicket\bin\Debug\happyTicket.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\happyTicket\obj\Debug\happyTicket.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\happyTicket\obj\Debug\happyTicket.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\happyTicket\obj\Debug\happyTicket.csprojResolveAssemblyReference.cache

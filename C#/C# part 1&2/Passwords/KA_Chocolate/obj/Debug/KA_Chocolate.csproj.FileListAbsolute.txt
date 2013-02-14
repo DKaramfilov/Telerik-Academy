@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Chocolate\bin\Debug\KA_Chocolate.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Chocolate\bin\Debug\KA_Chocolate.pdb
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Chocolate\obj\Debug\KA_Chocolate.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Chocolate\obj\Debug\KA_Chocolate.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Chocolate\obj\Debug\KA_Chocolate.pdb

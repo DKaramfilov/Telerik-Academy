@@ -1,0 +1,5 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem4–3DLines\bin\Debug\Problem4–3DLines.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem4–3DLines\bin\Debug\Problem4–3DLines.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem4–3DLines\obj\Debug\Problem4–3DLines.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem4–3DLines\obj\Debug\Problem4–3DLines.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem4–3DLines\obj\Debug\Problem4–3DLines.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 4 – Bombing Cuboids\bin\Debug\Problem 4 – Bombing Cuboids.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 4 – Bombing Cuboids\bin\Debug\Problem 4 – Bombing Cuboids.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 4 – Bombing Cuboids\obj\Debug\Problem 4 – Bombing Cuboids.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 4 – Bombing Cuboids\obj\Debug\Problem 4 – Bombing Cuboids.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 4 – Bombing Cuboids\obj\Debug\Problem 4 – Bombing Cuboids.csprojResolveAssemblyReference.cache

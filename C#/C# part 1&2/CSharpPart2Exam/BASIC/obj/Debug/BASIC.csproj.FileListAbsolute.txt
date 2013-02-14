@@ -1,0 +1,5 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\BASIC\bin\Debug\BASIC.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\BASIC\bin\Debug\BASIC.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\BASIC\obj\Debug\BASIC.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\BASIC\obj\Debug\BASIC.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\BASIC\obj\Debug\BASIC.pdb

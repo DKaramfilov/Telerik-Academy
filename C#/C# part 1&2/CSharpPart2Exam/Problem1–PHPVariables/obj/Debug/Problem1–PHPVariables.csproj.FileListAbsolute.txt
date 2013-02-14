@@ -1,0 +1,5 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem1–PHPVariables\bin\Debug\Problem1–PHPVariables.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem1–PHPVariables\bin\Debug\Problem1–PHPVariables.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem1–PHPVariables\obj\Debug\Problem1–PHPVariables.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem1–PHPVariables\obj\Debug\Problem1–PHPVariables.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem1–PHPVariables\obj\Debug\Problem1–PHPVariables.csprojResolveAssemblyReference.cache

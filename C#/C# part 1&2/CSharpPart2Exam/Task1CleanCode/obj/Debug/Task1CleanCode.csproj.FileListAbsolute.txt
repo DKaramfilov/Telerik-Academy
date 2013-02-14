@@ -1,0 +1,4 @@
+c:\users\mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Task1CleanCode\bin\Debug\Task1CleanCode.exe
+c:\users\mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Task1CleanCode\bin\Debug\Task1CleanCode.pdb
+c:\users\mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Task1CleanCode\obj\Debug\Task1CleanCode.exe
+c:\users\mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Task1CleanCode\obj\Debug\Task1CleanCode.pdb

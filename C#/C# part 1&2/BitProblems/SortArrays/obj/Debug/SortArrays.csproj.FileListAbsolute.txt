@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\BitProblems\SortArrays\bin\Debug\SortArrays.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\SortArrays\bin\Debug\SortArrays.pdb
+C:\Users\Mitko\Documents\exam projects\BitProblems\SortArrays\obj\Debug\SortArrays.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\SortArrays\obj\Debug\SortArrays.pdb

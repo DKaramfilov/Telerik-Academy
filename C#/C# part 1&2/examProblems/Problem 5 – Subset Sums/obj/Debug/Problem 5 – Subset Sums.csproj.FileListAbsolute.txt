@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Subset Sums\bin\Debug\Problem 5 – Subset Sums.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Subset Sums\bin\Debug\Problem 5 – Subset Sums.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Subset Sums\obj\Debug\Problem 5 – Subset Sums.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Subset Sums\obj\Debug\Problem 5 – Subset Sums.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 5 – Subset Sums\obj\Debug\Problem 5 – Subset Sums.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 5 – Subset Sums\obj\Debug\Problem 5 – Subset Sums.pdb

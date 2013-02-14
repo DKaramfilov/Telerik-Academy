@@ -1,0 +1,9 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Odd Number\bin\Debug\Problem 4 – Odd Number.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Odd Number\bin\Debug\Problem 4 – Odd Number.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Odd Number\obj\Debug\Problem 4 – Odd Number.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Odd Number\obj\Debug\Problem 4 – Odd Number.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 4 – Odd Number\obj\Debug\Problem 4 – Odd Number.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 4 – Odd Number\obj\Debug\Problem 4 – Odd Number.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 4 – Odd Number\bin\Debug\Problem 4 – Odd Number.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 4 – Odd Number\bin\Debug\Problem 4 – Odd Number.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 4 – Odd Number\obj\Debug\Problem 4 – Odd Number.csprojResolveAssemblyReference.cache

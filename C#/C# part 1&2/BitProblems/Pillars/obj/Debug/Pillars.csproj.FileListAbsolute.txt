@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\BitProblems\Pillars\bin\Debug\Pillars.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\Pillars\bin\Debug\Pillars.pdb
+C:\Users\Mitko\Documents\exam projects\BitProblems\Pillars\obj\Debug\Pillars.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\BitProblems\Pillars\obj\Debug\Pillars.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\Pillars\obj\Debug\Pillars.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_lucky\bin\Debug\KA_lucky.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_lucky\bin\Debug\KA_lucky.pdb
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_lucky\obj\Debug\KA_lucky.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_lucky\obj\Debug\KA_lucky.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_lucky\obj\Debug\KA_lucky.pdb

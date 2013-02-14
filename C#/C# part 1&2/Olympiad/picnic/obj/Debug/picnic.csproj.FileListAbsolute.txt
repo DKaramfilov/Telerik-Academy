@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\picnic\bin\Debug\picnic.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\picnic\bin\Debug\picnic.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\picnic\obj\Debug\picnic.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\picnic\obj\Debug\picnic.pdb

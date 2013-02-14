@@ -1,0 +1,4 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem4–3DSlices\bin\Debug\Problem4–3DSlices.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem4–3DSlices\bin\Debug\Problem4–3DSlices.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem4–3DSlices\obj\Debug\Problem4–3DSlices.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem4–3DSlices\obj\Debug\Problem4–3DSlices.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\MaxSurface\bin\Debug\MaxSurface.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\MaxSurface\bin\Debug\MaxSurface.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\MaxSurface\obj\Debug\MaxSurface.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Olympiad\MaxSurface\obj\Debug\MaxSurface.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\MaxSurface\obj\Debug\MaxSurface.pdb

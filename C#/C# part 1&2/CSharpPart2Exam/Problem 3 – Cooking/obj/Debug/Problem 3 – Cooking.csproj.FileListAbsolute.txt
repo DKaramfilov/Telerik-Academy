@@ -1,0 +1,4 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 3 – Cooking\bin\Debug\Problem 3 – Cooking.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 3 – Cooking\bin\Debug\Problem 3 – Cooking.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 3 – Cooking\obj\Debug\Problem 3 – Cooking.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 3 – Cooking\obj\Debug\Problem 3 – Cooking.pdb

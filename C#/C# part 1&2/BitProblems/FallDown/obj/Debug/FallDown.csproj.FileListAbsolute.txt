@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\BitProblems\FallDown\bin\Debug\FallDown.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\FallDown\bin\Debug\FallDown.pdb
+C:\Users\Mitko\Documents\exam projects\BitProblems\FallDown\obj\Debug\FallDown.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\FallDown\obj\Debug\FallDown.pdb

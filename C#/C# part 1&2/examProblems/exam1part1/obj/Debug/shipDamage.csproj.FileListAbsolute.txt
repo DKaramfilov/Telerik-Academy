@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\exam1part1\bin\Debug\exam1part1.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\exam1part1\bin\Debug\exam1part1.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\exam1part1\obj\Debug\exam1part1.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\exam1part1\obj\Debug\exam1part1.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\exam1part1\obj\Debug\exam1part1.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\exam1part1\obj\Debug\exam1part1.pdb

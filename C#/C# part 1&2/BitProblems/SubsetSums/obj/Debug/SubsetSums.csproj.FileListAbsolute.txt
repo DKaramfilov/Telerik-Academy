@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\BitProblems\SubsetSums\bin\Debug\SubsetSums.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\SubsetSums\bin\Debug\SubsetSums.pdb
+C:\Users\Mitko\Documents\exam projects\BitProblems\SubsetSums\obj\Debug\SubsetSums.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\SubsetSums\obj\Debug\SubsetSums.pdb

@@ -1,0 +1,4 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\MessagesInBottle\bin\Debug\MessagesInBottle.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\MessagesInBottle\bin\Debug\MessagesInBottle.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\MessagesInBottle\obj\Debug\MessagesInBottle.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\MessagesInBottle\obj\Debug\MessagesInBottle.pdb

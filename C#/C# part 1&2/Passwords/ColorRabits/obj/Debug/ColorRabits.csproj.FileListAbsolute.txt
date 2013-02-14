@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Passwords\ColorRabits\bin\Debug\ColorRabits.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\ColorRabits\bin\Debug\ColorRabits.pdb
+C:\Users\Mitko\Documents\exam projects\Passwords\ColorRabits\obj\Debug\ColorRabits.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Passwords\ColorRabits\obj\Debug\ColorRabits.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\ColorRabits\obj\Debug\ColorRabits.pdb

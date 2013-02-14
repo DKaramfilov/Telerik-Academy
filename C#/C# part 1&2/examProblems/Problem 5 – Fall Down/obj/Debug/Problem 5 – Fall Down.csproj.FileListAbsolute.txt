@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Fall Down\bin\Debug\Problem 5 – Fall Down.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Fall Down\bin\Debug\Problem 5 – Fall Down.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Fall Down\obj\Debug\Problem 5 – Fall Down.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Fall Down\obj\Debug\Problem 5 – Fall Down.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 5 – Fall Down\obj\Debug\Problem 5 – Fall Down.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 5 – Fall Down\obj\Debug\Problem 5 – Fall Down.pdb

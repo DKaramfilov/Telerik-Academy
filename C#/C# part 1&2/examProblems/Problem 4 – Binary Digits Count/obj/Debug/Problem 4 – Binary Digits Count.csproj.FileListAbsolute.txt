@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Binary Digits Count\bin\Debug\Problem 4 – Binary Digits Count.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Binary Digits Count\bin\Debug\Problem 4 – Binary Digits Count.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Binary Digits Count\obj\Debug\Problem 4 – Binary Digits Count.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Binary Digits Count\obj\Debug\Problem 4 – Binary Digits Count.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 4 – Binary Digits Count\obj\Debug\Problem 4 – Binary Digits Count.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 4 – Binary Digits Count\obj\Debug\Problem 4 – Binary Digits Count.pdb

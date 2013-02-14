@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Math Expression\bin\Debug\Problem 1 – Math Expression.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Math Expression\bin\Debug\Problem 1 – Math Expression.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Math Expression\obj\Debug\Problem 1 – Math Expression.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Math Expression\obj\Debug\Problem 1 – Math Expression.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 1 – Math Expression\obj\Debug\Problem 1 – Math Expression.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 1 – Math Expression\obj\Debug\Problem 1 – Math Expression.pdb

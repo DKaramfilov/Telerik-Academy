@@ -1,0 +1,4 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 1 – Basic Language\bin\Debug\Problem 1 – Basic Language.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 1 – Basic Language\bin\Debug\Problem 1 – Basic Language.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 1 – Basic Language\obj\Debug\Problem 1 – Basic Language.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem 1 – Basic Language\obj\Debug\Problem 1 – Basic Language.pdb

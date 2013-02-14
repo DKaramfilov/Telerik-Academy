@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\lottery\bin\Debug\lottery.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\lottery\bin\Debug\lottery.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Olympiad\lottery\obj\Debug\lottery.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\lottery\obj\Debug\lottery.pdb

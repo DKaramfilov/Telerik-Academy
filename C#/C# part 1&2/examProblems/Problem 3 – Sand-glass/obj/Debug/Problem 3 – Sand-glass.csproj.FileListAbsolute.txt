@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Sand-glass\bin\Debug\Problem 3 – Sand-glass.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Sand-glass\bin\Debug\Problem 3 – Sand-glass.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Sand-glass\obj\Debug\Problem 3 – Sand-glass.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Sand-glass\obj\Debug\Problem 3 – Sand-glass.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 3 – Sand-glass\obj\Debug\Problem 3 – Sand-glass.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 3 – Sand-glass\obj\Debug\Problem 3 – Sand-glass.pdb

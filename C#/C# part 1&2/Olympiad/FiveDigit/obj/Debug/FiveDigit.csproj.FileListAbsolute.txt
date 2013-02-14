@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\FiveDigit\bin\Debug\FiveDigit.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\FiveDigit\bin\Debug\FiveDigit.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\FiveDigit\obj\Debug\FiveDigit.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\FiveDigit\obj\Debug\FiveDigit.pdb

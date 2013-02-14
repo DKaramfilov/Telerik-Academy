@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Forest Road\bin\Debug\Problem 3 – Forest Road.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Forest Road\bin\Debug\Problem 3 – Forest Road.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Forest Road\obj\Debug\Problem 3 – Forest Road.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Forest Road\obj\Debug\Problem 3 – Forest Road.pdb

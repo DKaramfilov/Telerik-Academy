@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Least Majority Multiple\bin\Debug\Problem 2 – Least Majority Multiple.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Least Majority Multiple\bin\Debug\Problem 2 – Least Majority Multiple.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Least Majority Multiple\obj\Debug\Problem 2 – Least Majority Multiple.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Least Majority Multiple\obj\Debug\Problem 2 – Least Majority Multiple.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 2 – Least Majority Multiple\obj\Debug\Problem 2 – Least Majority Multiple.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 2 – Least Majority Multiple\obj\Debug\Problem 2 – Least Majority Multiple.pdb

@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Trapezoid\bin\Debug\Problem 3 – Trapezoid.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Trapezoid\bin\Debug\Problem 3 – Trapezoid.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Trapezoid\obj\Debug\Problem 3 – Trapezoid.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 3 – Trapezoid\obj\Debug\Problem 3 – Trapezoid.pdb

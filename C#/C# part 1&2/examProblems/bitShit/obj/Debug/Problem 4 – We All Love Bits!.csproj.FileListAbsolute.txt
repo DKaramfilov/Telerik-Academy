@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\bitShit\bin\Debug\bitShit.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\bitShit\bin\Debug\bitShit.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\bitShit\obj\Debug\bitShit.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\bitShit\obj\Debug\bitShit.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\bitShit\obj\Debug\bitShit.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\bitShit\obj\Debug\bitShit.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\test\bin\Debug\test.exe.config
+C:\Users\Mitko\Documents\exam projects\ShipDamage\test\bin\Debug\test.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\test\bin\Debug\test.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\test\obj\Debug\test.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\test\obj\Debug\test.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\test\obj\Debug\test.csprojResolveAssemblyReference.cache

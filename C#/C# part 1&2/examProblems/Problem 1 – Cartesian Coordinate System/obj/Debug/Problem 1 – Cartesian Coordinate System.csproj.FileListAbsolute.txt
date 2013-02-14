@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Cartesian Coordinate System\bin\Debug\Problem 1 – Cartesian Coordinate System.exe.config
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Cartesian Coordinate System\bin\Debug\Problem 1 – Cartesian Coordinate System.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Cartesian Coordinate System\bin\Debug\Problem 1 – Cartesian Coordinate System.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Cartesian Coordinate System\obj\Debug\Problem 1 – Cartesian Coordinate System.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 1 – Cartesian Coordinate System\obj\Debug\Problem 1 – Cartesian Coordinate System.pdb

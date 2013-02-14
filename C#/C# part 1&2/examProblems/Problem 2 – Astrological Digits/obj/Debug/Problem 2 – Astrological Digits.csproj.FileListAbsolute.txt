@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Astrological Digits\bin\Debug\Problem 2 – Astrological Digits.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Astrological Digits\bin\Debug\Problem 2 – Astrological Digits.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Astrological Digits\obj\Debug\Problem 2 – Astrological Digits.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Astrological Digits\obj\Debug\Problem 2 – Astrological Digits.pdb

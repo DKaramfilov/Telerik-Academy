@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Dancing Bits\bin\Debug\Problem 4 – Dancing Bits.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Dancing Bits\bin\Debug\Problem 4 – Dancing Bits.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Dancing Bits\obj\Debug\Problem 4 – Dancing Bits.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 4 – Dancing Bits\obj\Debug\Problem 4 – Dancing Bits.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 4 – Dancing Bits\obj\Debug\Problem 4 – Dancing Bits.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 4 – Dancing Bits\obj\Debug\Problem 4 – Dancing Bits.pdb

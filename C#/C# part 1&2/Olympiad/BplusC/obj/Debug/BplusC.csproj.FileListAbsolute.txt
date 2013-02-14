@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\BplusC\bin\Debug\BplusC.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\BplusC\bin\Debug\BplusC.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\BplusC\obj\Debug\BplusC.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Olympiad\BplusC\obj\Debug\BplusC.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\BplusC\obj\Debug\BplusC.pdb

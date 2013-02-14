@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_party\bin\Debug\KA_party.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_party\bin\Debug\KA_party.pdb
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_party\obj\Debug\KA_party.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_party\obj\Debug\KA_party.pdb

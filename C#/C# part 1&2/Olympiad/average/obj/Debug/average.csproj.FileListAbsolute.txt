@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\average\bin\Debug\average.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\average\bin\Debug\average.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\average\obj\Debug\average.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Olympiad\average\obj\Debug\average.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\average\obj\Debug\average.pdb

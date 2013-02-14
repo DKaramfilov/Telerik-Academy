@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\exam projects\BitProblems\FindingTheMode\bin\Debug\FindingTheMode.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\FindingTheMode\bin\Debug\FindingTheMode.pdb
+C:\Users\Mitko\Documents\exam projects\BitProblems\FindingTheMode\obj\Debug\FindingTheMode.exe
+C:\Users\Mitko\Documents\exam projects\BitProblems\FindingTheMode\obj\Debug\FindingTheMode.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem5–Guitar\bin\Debug\Problem5–Guitar.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem5–Guitar\bin\Debug\Problem5–Guitar.pdb
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem5–Guitar\obj\Debug\Problem5–Guitar.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem5–Guitar\obj\Debug\Problem5–Guitar.exe
+C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Problem5–Guitar\obj\Debug\Problem5–Guitar.pdb

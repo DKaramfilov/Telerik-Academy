@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_tickets\bin\Debug\KA_tickets.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_tickets\bin\Debug\KA_tickets.pdb
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_tickets\obj\Debug\KA_tickets.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_tickets\obj\Debug\KA_tickets.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_tickets\obj\Debug\KA_tickets.pdb

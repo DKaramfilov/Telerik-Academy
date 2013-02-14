@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Toys\bin\Debug\KA_Toys.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Toys\bin\Debug\KA_Toys.pdb
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Toys\obj\Debug\KA_Toys.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Toys\obj\Debug\KA_Toys.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\KA_Toys\obj\Debug\KA_Toys.pdb

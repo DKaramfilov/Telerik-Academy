@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\fishGlobe\bin\Debug\fishGlobe.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\fishGlobe\bin\Debug\fishGlobe.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\fishGlobe\obj\Debug\fishGlobe.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Olympiad\fishGlobe\obj\Debug\fishGlobe.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\fishGlobe\obj\Debug\fishGlobe.pdb

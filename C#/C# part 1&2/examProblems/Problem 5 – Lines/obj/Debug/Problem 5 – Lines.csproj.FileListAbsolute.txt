@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Lines\bin\Debug\Problem 5 – Lines.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Lines\bin\Debug\Problem 5 – Lines.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Lines\obj\Debug\Problem 5 – Lines.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 5 – Lines\obj\Debug\Problem 5 – Lines.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 5 – Lines\obj\Debug\Problem 5 – Lines.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 5 – Lines\obj\Debug\Problem 5 – Lines.pdb

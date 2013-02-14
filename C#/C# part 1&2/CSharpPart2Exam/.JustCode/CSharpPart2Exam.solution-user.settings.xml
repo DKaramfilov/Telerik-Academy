@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="4face7ab-e6ae-40b6-a532-6b548597cf63">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings>
+      <FilePath>
+        <Path>C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Task3Employees\Employees.cs</Path>
+        <ProjectFullName>C:\Users\Mitko\documents\visual studio 2012\Projects\CSharpPart2Exam\Task3Employees\Task3Employees.csproj</ProjectFullName>
+        <IgnoredElement>
+          <Column>7</Column>
+          <Text>The namespace of this type doesn't match the project default namespace &amp; directory</Text>
+          <Line>5</Line>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

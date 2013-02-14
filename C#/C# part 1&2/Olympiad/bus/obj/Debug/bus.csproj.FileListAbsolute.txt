@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\bus\bin\Debug\bus.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\bus\bin\Debug\bus.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\bus\obj\Debug\bus.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Olympiad\bus\obj\Debug\bus.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\bus\obj\Debug\bus.pdb

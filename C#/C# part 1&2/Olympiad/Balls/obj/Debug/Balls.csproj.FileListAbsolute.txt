@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Olympiad\Balls\bin\Debug\Balls.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\Balls\bin\Debug\Balls.pdb
+C:\Users\Mitko\Documents\exam projects\Olympiad\Balls\obj\Debug\Balls.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Olympiad\Balls\obj\Debug\Balls.exe
+C:\Users\Mitko\Documents\exam projects\Olympiad\Balls\obj\Debug\Balls.pdb

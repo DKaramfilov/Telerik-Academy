@@ -1,0 +1,8 @@
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Miss Cat 2011\bin\Debug\Problem 2 – Miss Cat 2011.exe.config
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Miss Cat 2011\bin\Debug\Problem 2 – Miss Cat 2011.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Miss Cat 2011\bin\Debug\Problem 2 – Miss Cat 2011.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Miss Cat 2011\obj\Debug\Problem 2 – Miss Cat 2011.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\Problem 2 – Miss Cat 2011\obj\Debug\Problem 2 – Miss Cat 2011.pdb
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 2 – Miss Cat 2011\bin\Debug\Problem 2 – Miss Cat 2011.exe.config
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 2 – Miss Cat 2011\obj\Debug\Problem 2 – Miss Cat 2011.exe
+C:\Users\Mitko\Documents\exam projects\ShipDamage\examProblems\Problem 2 – Miss Cat 2011\obj\Debug\Problem 2 – Miss Cat 2011.pdb

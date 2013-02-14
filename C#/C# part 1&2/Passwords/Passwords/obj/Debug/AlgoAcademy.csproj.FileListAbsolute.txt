@@ -1,0 +1,5 @@
+C:\Users\Mitko\Documents\exam projects\Passwords\Passwords\bin\Debug\Passwords.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\Passwords\bin\Debug\Passwords.pdb
+C:\Users\Mitko\Documents\exam projects\Passwords\Passwords\obj\Debug\AlgoAcademy.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\exam projects\Passwords\Passwords\obj\Debug\Passwords.exe
+C:\Users\Mitko\Documents\exam projects\Passwords\Passwords\obj\Debug\Passwords.pdb
