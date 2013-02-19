@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Classes1Homework
 {
@@ -15,6 +14,19 @@ namespace Classes1Homework
         private Battery battery;
         private Display display;
         private static string IPhone4S = "IPhone 4S Info";
+        List<Call> callHistroy = new List<Call>();
+
+        public List<Call> CallHistroy
+        {
+            get
+            {
+                return this.callHistroy;
+            }
+            set
+            {
+                this.callHistroy = value;
+            }
+        }
 
         public Display Display
         {
@@ -138,6 +150,34 @@ namespace Classes1Homework
             result = String.Format("Manufacturer: {0}, Model: {1} \nPrice: {2:C} \nOwner: {3}\n", this.manufacturer, this.model, this.price, this.owner);
             return result + batteryInfo + displayInfo;
         }
-
+        public void AddCall(Call c)
+        {
+            callHistroy.Add(c);
+        }
+        public void RemoveCall(Call c)
+        {
+            callHistroy.Remove(c);
+        }
+        public void ClearAllCalls()
+        {
+            callHistroy.Clear();
+        }
+        public decimal CalculateCallsCosts(decimal pricePerMinute)
+        {
+            int overalDuration = 0;
+            foreach (var call in callHistroy)
+            {
+                overalDuration += call.Duration;
+            }
+            return ((decimal)overalDuration/60m) * pricePerMinute;
+        }
+        public void PrintCallsHistory()
+        {
+            foreach (var call in CallHistroy)
+            {
+                Console.WriteLine("Phone numbe:r {0}, Duration : {1} seconds\nDialed At: {2}\n",
+                                    call.DialedNumber, call.Duration, call.DialedAt);
+            }
+        }
     }
 }
