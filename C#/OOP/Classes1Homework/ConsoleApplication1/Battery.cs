@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-
 
 namespace Classes1Homework
 {  
@@ -32,7 +30,8 @@ namespace Classes1Homework
             }
             set
             {
-                this.mAh = value;
+                if (value < 0) this.mAh = 0;
+                else this.mAh = value;
             }
         }
         public string Model
@@ -43,7 +42,8 @@ namespace Classes1Homework
             }
             set
             {
-                this.model = value;
+                if (value == null ||value.Length > 3) this.model = value;
+                else this.model = null;
             }
         }
         public int HTalk
@@ -54,59 +54,40 @@ namespace Classes1Homework
             }
             set
             {
-                this.hTalk = value;
+                if (value < 0) this.hTalk = 0;
+                else this.hTalk = value;
             }
         }
         public int HIdle
         {
-            get { return hIdle; }
-            set { hIdle = value; }
+            get { return this.hIdle; }
+            set 
+            {
+                if (value < 0) this.hIdle = 0;
+                else this.hIdle = value;
+            }
         }
 
 
         public Battery()
+        {}
+        public Battery(string model) :this(model,0,0)
+        {}
+        public Battery(int hIdle,int hTalk) :this("",hIdle,hTalk)
+        {}
+        public Battery(string model,int hIdle, int hTalk ) :this(model,hIdle,hTalk,0,BatteryType.Unknown)
+        {}
+        public Battery(string model, int hIdle, int hTalk, int mAh, BatteryType type) 
         {
-            this.hIdle = 0;
-            this.hTalk = 0;
-            this.model = null;
-            this.mAh = 0;
-            this.type = BatteryType.Unknown;
-        }
-        public Battery(string model)
-        {
-            this.hIdle = 0;
-            this.hTalk = 0;
-            this.model = model;
-            this.mAh = 0;
-            this.type = BatteryType.Unknown;
-        }
-        public Battery(int hIdle,int hTalk)
-        {
-            this.hIdle = hIdle;
-            this.hTalk = hTalk;
-            this.model = null;
-            this.mAh = 0;
-            this.type = BatteryType.Unknown;
-        }
-        public Battery(int hIdle, int hTalk, string model)
-        {
-            this.hIdle = hIdle;
-            this.hTalk = hTalk;
-            this.model = model;
-            this.mAh = 0;
-            this.type = BatteryType.Unknown;
-        }
-        public Battery(int hIdle, int hTalk, string model, int mAh, BatteryType type)
-        {
-            this.hIdle = hIdle;
-            this.hTalk = hTalk;
-            this.model = model;
-            this.mAh = mAh;
-            this.type = type;
+            this.MAh = mAh;
+            this.Type = type;
+            this.HIdle = hIdle;
+            this.HTalk = hTalk;
+            this.Model = model;
         }
     }
     enum BatteryType
     {
-        Li_ion, NiMH, Nicd, Li_Poly, Unknown
+        Unknown, Li_ion, NiMH, Nicd, Li_Poly
     };
 }

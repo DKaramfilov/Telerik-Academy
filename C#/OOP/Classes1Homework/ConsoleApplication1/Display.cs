@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-
 
 namespace Classes1Homework
 {
@@ -32,7 +30,8 @@ namespace Classes1Homework
             }
             set
             {
-                this.dpi = value;
+                if (value < 0) this.dpi = 0;
+                else this.dpi = value;
             }
         }
         public string Resolution
@@ -43,7 +42,8 @@ namespace Classes1Homework
             }
             set
             {
-                this.resolution = value;
+                if (value == null || value.Length > 3) this.resolution = value;
+                else this.resolution = null;
             }
         }
         public string Colors
@@ -54,7 +54,8 @@ namespace Classes1Homework
             }
             set
             {
-                this.colors = value;
+                if (value == null || value.Length > 3) this.colors = value;
+                else this.colors = null;
             }
         }
         public float DisplaySize
@@ -65,50 +66,27 @@ namespace Classes1Homework
             }
             set
             {
-                this.displaySize = value;
+                if (value < 0) this.displaySize = 0.0f;
+                else this.displaySize = value;
             }
         }
 
 
         public Display()
-        {
-            this.displaySize = 0;
-            this.colors = null;
-            this.resolution = null;
-            this.dpi = 0;
-            this.touch = false;
-        }
-        public Display(float displaySize)
-        {
-            this.displaySize = displaySize;
-            this.colors = null;
-            this.resolution = null;
-            this.dpi = 0;
-            this.touch = false;
-        }
-        public Display(float displaySize, string colors)
-        {
-            this.displaySize = displaySize;
-            this.colors = colors;
-            this.resolution = null;
-            this.dpi = 0;
-            this.touch = false;
-        }
-        public Display(float displaySize, string colors, string resolution)
-        {
-            this.displaySize = displaySize;
-            this.colors = colors;
-            this.resolution = resolution;
-            this.dpi = 0;
-            this.touch = false;
-        }
+        {}
+        public Display(float displaySize): this(displaySize,null)
+        {}
+        public Display(float displaySize, string colors):this(displaySize,colors,null)
+        {}
+        public Display(float displaySize, string colors, string resolution):this(displaySize,colors,resolution,0,false)
+        {}
         public Display(float displaySize, string colors, string resolution, int dpi, bool touch)
         {
-            this.displaySize = displaySize;
-            this.colors = colors;
-            this.resolution = resolution;
-            this.dpi = dpi;
-            this.touch = touch;
+            this.DisplaySize = displaySize;
+            this.Colors = colors;
+            this.Resolution = resolution;
+            this.Dpi = dpi;
+            this.Touch = touch;
         }
     }
 }

@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-
 namespace Classes1Homework
 {
     class GSM
@@ -13,9 +12,72 @@ namespace Classes1Homework
         private string owner;
         private Battery battery;
         private Display display;
-        private static string IPhone4S = "IPhone 4S Info";
+        private static string iPhone4S = "IPhone 4S Info";
         List<Call> callHistroy = new List<Call>();
 
+
+        public static string IPhone4S
+        {
+            get
+            {
+                return iPhone4S;
+            }
+            set
+            {
+                if (value == null || value.Length >= 3) iPhone4S = value;
+                else iPhone4S = null;
+            }
+        }
+
+        public string Manufacturer
+        {
+            get
+            {
+                return this.manufacturer;
+            }
+            set
+            {
+                if (value == null || value.Length >= 3) this.manufacturer = value;
+                else this.Manufacturer = null;
+            }
+        }
+
+        public string Owner
+        {
+            get
+            {
+                return this.owner;
+            }
+            set
+            {
+                if (value == null || value.Length >= 3) this.owner = value;
+                else this.owner = null;
+            }
+        }
+        public decimal Price
+        {
+            get
+            {
+                return this.price;
+            }
+            set
+            {
+                if (value < 3) value = 0m;
+                this.price = value;
+            }
+        }
+        public string Model
+        {
+            get
+            {
+                return this.model;
+            }
+            set
+            {
+                if (value.Length < 3) value = null;
+                this.model = value;
+            }
+        }
         public List<Call> CallHistroy
         {
             get
@@ -27,7 +89,6 @@ namespace Classes1Homework
                 this.callHistroy = value;
             }
         }
-
         public Display Display
         {
             get
@@ -50,91 +111,25 @@ namespace Classes1Homework
                 this.battery = value;
             }
         }
-        public string Owner
-        {
-            get
-            {
-                return this.owner;
-            }
-            set
-            {
-                this.owner = value;
-            }
-        }
-        public decimal Price
-        {
-            get
-            {
-                return this.price;
-            }
-            set
-            {
-                this.price = value;
-            }
-        }
-        public string Model
-        {
-            get
-            {
-                return this.model;
-            }
-            set
-            {
-                this.model = value;
-            }
-        }
-        public string Manufacturer
-        {
-            get
-            {
-                return this.manufacturer;
-            }
-            set
-            {
-                this.manufacturer = value;
-            }
-        }
-        public static string IPhone4S1
-        {
-            get { return GSM.IPhone4S; }
-            set { GSM.IPhone4S = value; }
-        }
+
 
         public GSM(string manufacturer, string model)
-        {
-            this.manufacturer = manufacturer;
-            this.model = model;
-            this.price = 0.0m;
-            this.owner = null;
-            this.battery = new Battery();
-            this.display = new Display();
-        }
+            : this(manufacturer, model, 0m)
+        { }
         public GSM(string manufacturer, string model, decimal price)
-        {
-            this.manufacturer = manufacturer;
-            this.model = model;
-            this.price = price;
-            this.owner = null;
-            this.battery = new Battery();
-            this.display = new Display();
-        }
+            : this(manufacturer, model, price, null)
+        { }
         public GSM(string manufacturer, string model, decimal price, string owner)
-        {
-            this.manufacturer = manufacturer;
-            this.model = model;
-            this.price = price;
-            this.owner = owner;
-            this.battery = new Battery();
-            this.display = new Display();
-        }
+            : this(manufacturer, model, price, owner, new Battery(), new Display())
+        { }
         public GSM(string manufacturer, string model, decimal price, string owner, Battery battery, Display display)
         {
-            this.manufacturer = manufacturer;
-            this.model = model;
-            this.price = price;
-            this.owner = owner;
-            this.battery = battery;
-            this.display = display;
+            this.Manufacturer = manufacturer;
+            this.Model = model;
+            this.Price = price;
+            this.Owner = owner;
+            this.Battery = battery;
+            this.Display = display;
         }
 
         public override string ToString()
@@ -169,7 +164,7 @@ namespace Classes1Homework
             {
                 overalDuration += call.Duration;
             }
-            return ((decimal)overalDuration/60m) * pricePerMinute;
+            return ((decimal)overalDuration / 60m) * pricePerMinute;
         }
         public void PrintCallsHistory()
         {

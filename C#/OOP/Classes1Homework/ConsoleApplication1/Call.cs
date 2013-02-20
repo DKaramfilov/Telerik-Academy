@@ -1,7 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-
 
 namespace Classes1Homework
 {
@@ -47,28 +45,16 @@ namespace Classes1Homework
         }
 
         public Call()
-        {
-            this.dialedAt = new DateTime();
-            this.duration = 0;
-            this.dialedNumber = null;
-        }
-        public Call(string dialedNumber)
-        {
-            this.dialedAt = new DateTime();
-            this.duration = 0;
-            this.dialedNumber = dialedNumber;
-        }
-        public Call(string dialedNumber, int duration)
-        {
-            this.dialedAt = new DateTime();
-            this.duration = duration;
-            this.dialedNumber = dialedNumber;
-        }
+        {}
+        public Call(string dialedNumber):this(dialedNumber,0)
+        {}
+        public Call(string dialedNumber, int duration):this(dialedNumber,duration,new DateTime())
+        {}
         public Call(string dialedNumber, int duration, DateTime dialedAt)
         {
-            this.dialedAt = dialedAt;
-            this.duration = duration;
-            this.dialedNumber = dialedNumber;
+            this.DialedAt = dialedAt;
+            this.Duration = duration;
+            this.DialedNumber = dialedNumber;
         }
 
         public int CompareTo(Call other)
