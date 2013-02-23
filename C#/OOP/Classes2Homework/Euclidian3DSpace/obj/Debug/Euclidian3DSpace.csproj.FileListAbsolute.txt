@@ -1,5 +1,4 @@
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Euclidian3DSpace\bin\Debug\Euclidian3DSpace.exe.config
-C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Euclidian3DSpace\obj\Debug\Euclidian3DSpace.csprojResolveAssemblyReference.cache
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Euclidian3DSpace\bin\Debug\Euclidian3DSpace.exe
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Euclidian3DSpace\bin\Debug\Euclidian3DSpace.pdb
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Euclidian3DSpace\obj\Debug\Euclidian3DSpace.exe
