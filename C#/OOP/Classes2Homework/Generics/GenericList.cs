@@ -11,7 +11,7 @@ namespace Generics
         private int currentIndex = 0;
         private readonly T defaultValue;
 
-        public GenericList(): this(10)
+        public GenericList(): this(1024)
         {}
         public GenericList(int lenght)
         {
@@ -75,6 +75,17 @@ namespace Generics
             }
             array[lastIndex] = defaultValue;
             currentIndex--;          
+        }
+        public void Remove(int index)
+        {
+            if (index >= currentIndex || index <0) throw new IndexOutOfRangeException("Index out of range");
+            if (currentIndex + 1 >= array.Length) array = DoubleSize();
+
+            for (int i = index; i < currentIndex; i++)
+            {
+                array[i] = array[i + 1];   
+            }
+            currentIndex--;
         }
         public void Clear()
         {

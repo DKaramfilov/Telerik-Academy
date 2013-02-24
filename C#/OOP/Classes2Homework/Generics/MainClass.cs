@@ -26,8 +26,10 @@ namespace Generics
                 Console.WriteLine(new string('-', 30));
                 Console.WriteLine("Testing Remove");
 
-                testList.Remove("gosho");
-                testList.Remove("mitko");
+                //testList.Remove("gosho");
+                //testList.Remove("mitko");
+
+                testList.Remove(9);
 
                 Console.WriteLine(testList);
 
@@ -54,7 +56,7 @@ namespace Generics
                 //testList.Insert("some text", 1000);
                 //testList[100] = "does not matter";
                 //Console.WriteLine(testList[500]);
-                testList.Remove("Not in list text");
+                //testList.Remove("Not in list text");
 
             }
             catch (IndexOutOfRangeException ex)
