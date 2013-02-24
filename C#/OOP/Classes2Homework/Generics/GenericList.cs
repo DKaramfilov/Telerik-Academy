@@ -28,6 +28,19 @@ namespace Generics
             return temp;
         }
 
+        public T this[int i]
+        {
+            get
+            {
+                if (i >= array.Length || i < 0) throw new IndexOutOfRangeException("max curent index: " + (array.Length - 1));
+                return array[i];
+            }
+            set
+            {
+                if (i >= array.Length || i < 0) throw new IndexOutOfRangeException("max curent index: "+(array.Length-1));
+                array[i] = value;
+            }
+        }
 
         public void Add(T obj)
         {
@@ -36,9 +49,9 @@ namespace Generics
             currentIndex++;
         }
         public void Insert(T obj, int index)
-        {
-            if (index > array.Length - 1) array = DoubleSize();
+        {           
             if (currentIndex + 1 >= array.Length) array = DoubleSize();
+            if (index > array.Length - 1) throw new IndexOutOfRangeException("Cannot insert item, try add Method Instead.");
 
             for (int i = array.Length-2; i >= index; i--)
             {
@@ -52,7 +65,7 @@ namespace Generics
         {
             int i = Array.IndexOf(array, obj);
 
-            if (i < 0) throw new IndexOutOfRangeException();
+            if (i < 0) throw new IndexOutOfRangeException("Element not found.");
 
             int lastIndex = 0;
             for (int j = i; j < array.Length-1; j++)
@@ -78,10 +91,10 @@ namespace Generics
         public override string ToString()
         {
             StringBuilder result = new StringBuilder();
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < currentIndex; i++)
             {
                 result.Append(array[i]);
-                result.Append(' ');
+                result.Append("; ");
             }
             result.AppendLine();
 

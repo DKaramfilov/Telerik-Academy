@@ -7,30 +7,60 @@ namespace Generics
     {
         static void Main(string[] args)
         {
+            try
+            {
+                Console.WriteLine(new string('-',30));
+                Console.WriteLine("Testing Add");
+                GenericList<string> testList = new GenericList<string>(5);
+                testList.Add("mitko");
+                testList.Add("pesho");
+                testList.Add("gosho");
+                testList.Add("sharo");
+                testList.Add("balkan");
+                testList.Add("pesho");
+                testList.Add("gosho");
+                testList.Add("sharo");
+                testList.Add("balkan");
+                Console.WriteLine(testList);
 
-            GenericList<string> testList = new GenericList<string>(5);
-            testList.Add("mitko");
-            testList.Add("pesho");
-            testList.Add("gosho");
-            testList.Add("sharo");
-            testList.Add("balkan");
-            testList.Add("pesho");
-            testList.Add("gosho");
-            testList.Add("sharo");
-            testList.Add("balkan");
-            
-            Console.WriteLine(testList);
+                Console.WriteLine(new string('-', 30));
+                Console.WriteLine("Testing Remove");
 
-            //testList.Remove("gosho");
-            //testList.Remove("mitko");
+                testList.Remove("gosho");
+                testList.Remove("mitko");
 
-            //Console.WriteLine(testList);
+                Console.WriteLine(testList);
 
-            testList.Insert("joro", 2);
-            Console.WriteLine(testList);
-            GenericList<int> someInts = new GenericList<int>();
-            someInts.Insert(5, 5);
-            Console.WriteLine(someInts);
+                Console.WriteLine(new string('-', 30));
+                Console.WriteLine("Testing Insert");
+
+                testList.Insert("Joro", 2);
+                testList.Insert("Pencho", 7);
+
+                Console.WriteLine(testList);
+
+
+                Console.WriteLine(new string('-', 30));
+                Console.WriteLine("Testing Indexer");
+                
+                testList[4] = "asigned using indexer";
+                Console.WriteLine(testList[4]);
+                Console.WriteLine(testList);
+
+                Console.WriteLine(new string('-', 30));
+                Console.WriteLine("Testing with invalid data");
+
+                
+                //testList.Insert("some text", 1000);
+                //testList[100] = "does not matter";
+                //Console.WriteLine(testList[500]);
+                testList.Remove("Not in list text");
+
+            }
+            catch (IndexOutOfRangeException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
         }
     }
 }
