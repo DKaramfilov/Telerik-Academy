@@ -5,7 +5,7 @@ namespace Generics
 {
     class MainClass
     {
-        static void Main(string[] args)
+        static void Main()
         {
             try
             {
@@ -28,8 +28,8 @@ namespace Generics
 
                 //testList.Remove("gosho");
                 //testList.Remove("mitko");
-
-                testList.Remove(9);
+                
+                testList.Remove(5);
 
                 Console.WriteLine(testList);
 
@@ -52,12 +52,15 @@ namespace Generics
                 Console.WriteLine(new string('-', 30));
                 Console.WriteLine("Testing with invalid data");
 
-                
                 //testList.Insert("some text", 1000);
                 //testList[100] = "does not matter";
                 //Console.WriteLine(testList[500]);
                 //testList.Remove("Not in list text");
 
+                Console.WriteLine(new string('-', 30));
+                Console.WriteLine("Testing Min And Max");
+                Console.WriteLine(testList.Min());
+                Console.WriteLine(testList.Max());
             }
             catch (IndexOutOfRangeException ex)
             {
