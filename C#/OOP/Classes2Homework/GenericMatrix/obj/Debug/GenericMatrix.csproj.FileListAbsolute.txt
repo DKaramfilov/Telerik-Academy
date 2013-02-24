@@ -1,0 +1,6 @@
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\bin\Debug\GenericMatrix.exe.config
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\obj\Debug\GenericMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\bin\Debug\GenericMatrix.exe
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\bin\Debug\GenericMatrix.pdb
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\obj\Debug\GenericMatrix.exe
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\obj\Debug\GenericMatrix.pdb

@@ -5,11 +5,11 @@ using System.Text;
 
 namespace Generics
 {
-    class GenericList<T> where T : IComparable
+    class GenericList<T> 
     {
         private T[] array;
         private int currentIndex = 0;
-        private readonly T defaultValue;
+        private readonly T defaultValue = default(T);
 
         public GenericList()
             : this(1024)

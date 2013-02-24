@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace Generics
 {
@@ -27,7 +26,7 @@ namespace Generics
                 Console.WriteLine("Testing Remove");
 
                 //testList.Remove("gosho");
-                //testList.Remove("mitko");
+                testList.Remove("mitko");
                 
                 testList.Remove(5);
 
