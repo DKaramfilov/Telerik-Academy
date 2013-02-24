@@ -4,3 +4,9 @@ C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\bin\Debug\Generics.pdb
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\obj\Debug\Generics.exe
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\obj\Debug\Generics.pdb
+C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\bin\Debug\Generics.exe.config
+C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\obj\Debug\Generics.exe
+C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\obj\Debug\Generics.pdb
+C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\bin\Debug\Generics.exe
+C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\bin\Debug\Generics.pdb
+C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache

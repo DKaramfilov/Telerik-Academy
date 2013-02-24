@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Generics
 {
@@ -10,8 +9,10 @@ namespace Generics
     {
         private T[] array;
         private int currentIndex = 0;
-        private T defaultValue;
+        private readonly T defaultValue;
 
+        public GenericList(): this(10)
+        {}
         public GenericList(int lenght)
         {
             array = new T[lenght];
@@ -27,20 +28,26 @@ namespace Generics
             return temp;
         }
 
+
         public void Add(T obj)
         {
-            if (currentIndex >= array.Length) array = DoubleSize();
+            if (currentIndex >= array.Length) array = DoubleSize();       
             array[currentIndex] = obj;
             currentIndex++;
         }
-
         public void Insert(T obj, int index)
         {
             if (index > array.Length - 1) array = DoubleSize();
+            if (currentIndex + 1 >= array.Length) array = DoubleSize();
 
-            
+            for (int i = array.Length-2; i >= index; i--)
+            {
+                T temp = array[i];
+                array[i + 1] = temp;
+            }
+            array[index] = obj;
+            currentIndex++;
         }
-
         public void Remove(T obj)
         {
             int i = Array.IndexOf(array, obj);
@@ -54,8 +61,19 @@ namespace Generics
                 lastIndex = j;
             }
             array[lastIndex] = defaultValue;
-            currentIndex--;
-            
+            currentIndex--;          
+        }
+        public void Clear()
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = defaultValue;
+            }
+        }
+        public int Find(T obj, int index = 0)
+        {
+            int i = Array.IndexOf(array, obj,index);
+            return i;
         }
         public override string ToString()
         {
@@ -68,7 +86,6 @@ namespace Generics
             result.AppendLine();
 
             return result.ToString();
-        }
-  
+        }  
     }
 }

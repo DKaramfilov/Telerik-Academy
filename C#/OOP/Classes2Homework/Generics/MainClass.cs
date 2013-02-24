@@ -7,8 +7,6 @@ namespace Generics
     {
         static void Main(string[] args)
         {
-            List<int> test = new  List<int>();
-            
 
             GenericList<string> testList = new GenericList<string>(5);
             testList.Add("mitko");
@@ -23,13 +21,16 @@ namespace Generics
             
             Console.WriteLine(testList);
 
-            testList.Remove("gosho");
-            testList.Remove("mitko");
+            //testList.Remove("gosho");
+            //testList.Remove("mitko");
 
-            Console.WriteLine(testList);
+            //Console.WriteLine(testList);
 
             testList.Insert("joro", 2);
             Console.WriteLine(testList);
+            GenericList<int> someInts = new GenericList<int>();
+            someInts.Insert(5, 5);
+            Console.WriteLine(someInts);
         }
     }
 }
