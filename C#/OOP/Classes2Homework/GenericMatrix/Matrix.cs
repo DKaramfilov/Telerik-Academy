@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace GenericMatrix
 {
-    class Matrix<T>// where T : INumeralOperators
+    class Matrix<T>
     {
         private T[,] matrix;
 
