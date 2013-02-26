@@ -3,6 +3,7 @@ using System.Linq;
 
 namespace Euclidian3DSpace
 {
+    [Version(1,4)]
     struct Point3D
     {
         private int x;

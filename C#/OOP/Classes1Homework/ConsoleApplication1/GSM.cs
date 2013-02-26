@@ -13,7 +13,7 @@ namespace Classes1Homework
         private Battery battery;
         private Display display;
         private static string iPhone4S = "IPhone 4S Info";
-        List<Call> callHistroy = new List<Call>();
+        private List<Call> callHistroy = new List<Call>();
 
 
         public static string IPhone4S

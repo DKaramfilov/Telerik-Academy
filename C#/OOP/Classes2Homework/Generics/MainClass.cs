@@ -2,7 +2,7 @@
 
 namespace Generics
 {
-    class MainClass
+    class MainClass                  // look for task info in SolutionItems TaskInfo.txt
     {
         static void Main()
         {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Euclidian3DSpace
+namespace Euclidian3DSpace              // look for task info in SolutionItems TaskInfo.txt
 {
     class MainClass
     {
@@ -38,6 +38,14 @@ namespace Euclidian3DSpace
             Path loadedPath = PathStorage.LoadPathFromFile("Saved Path.txt");
             Console.WriteLine("printing loadedPath");
             loadedPath.PrintPath();
+
+            // testing attributes
+            Console.WriteLine("Testing attributes");
+            Type t = typeof(Point3D);
+            Type tVersion = typeof(Version);
+            Version version = (Version)Attribute.GetCustomAttribute(t, tVersion);
+
+            Console.WriteLine(version.CurrentVersion);
         }
     }
 }

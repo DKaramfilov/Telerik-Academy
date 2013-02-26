@@ -7,7 +7,6 @@ namespace Classes1Homework
     {
         static void Main()
         {
-            GSM mitko = new GSM("mitko","12355");
             GsmTest.TestingGsmClass();
             
             Console.WriteLine();
