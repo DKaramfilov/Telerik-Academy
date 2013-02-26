@@ -1,0 +1,4 @@
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task3Students\obj\Debug\Task3Students.exe
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task3Students\obj\Debug\Task3Students.pdb
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task3Students\bin\Debug\Task3Students.exe
+C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task3Students\bin\Debug\Task3Students.pdb
