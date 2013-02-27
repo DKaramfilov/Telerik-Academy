@@ -4,18 +4,15 @@ namespace Task7ExecuteAtTime
 {
     class MainClass
     {
-        static void Main()
+        public static void Main()
         {
-            MethodTimer execute = new MethodTimer();
-            execute.currentMethods += TestMetnod;
-            execute.Start(2000);
-
-            Console.WriteLine("Press the Enter key to exit the program.");
-            Console.ReadLine();
+            Timer aTimer = new Timer(2000, 10);
+            aTimer.CurrentMethods = TestMetnod;
+            aTimer.Execute();
         }
         public static void TestMetnod()
         {
-            Console.WriteLine("Message that appears every couple of seconds" );
+            Console.WriteLine("Message that appears every couple of seconds");
         }
     }
 }

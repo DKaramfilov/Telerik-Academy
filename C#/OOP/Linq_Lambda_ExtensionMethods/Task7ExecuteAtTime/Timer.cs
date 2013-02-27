@@ -1,29 +1,71 @@
 ﻿using System;
-using System.Timers;
+using System.Threading;
 
 namespace Task7ExecuteAtTime
 {
-    public class MethodTimer 
-    {        
+    class Timer
+    {
         public delegate void MethodToExecute();
 
         public MethodToExecute currentMethods;
-        private Timer aTimer;
-       
-        public MethodTimer()
-        {
-            aTimer = new Timer(10000);                      
-        }
-        public void Start(int miliseconds)
-        {
+        private int interval = 0;
+        private int overalTime;
 
-            aTimer.Elapsed += new ElapsedEventHandler(OnTimedEvent);
-            aTimer.Interval = miliseconds;
-            aTimer.Enabled = true;
-        }
-        public  void OnTimedEvent(object sourse, ElapsedEventArgs e)
+        public int OveralTime
         {
-            currentMethods();
+            get
+            {
+                return this.overalTime;
+            }
+            set
+            {
+                this.overalTime = value * 1000;
+            }
+        }
+        public int Interval
+        {
+            get
+            {
+                return this.interval;
+            }
+            set
+            {
+                this.interval = value;
+            }
+        }
+        public MethodToExecute CurrentMethods
+        {
+            get
+            {
+                return this.currentMethods;
+            }
+            set
+            {
+                this.currentMethods = value;
+            }
+        }
+
+        public Timer() : this(0, 20) { }
+        public Timer(int miliseconds, int TotalSeconds)
+        {
+            this.OveralTime = TotalSeconds;
+            this.interval = miliseconds;
+        }
+
+
+        public void Execute()
+        {
+            DateTime start = DateTime.Now;
+            DateTime end = start.AddMilliseconds(OveralTime);
+            while (start <= end)
+            {
+
+                currentMethods();
+                Thread.Sleep(Interval);
+                start = DateTime.Now;
+            }
+
         }
     }
+  
 }
