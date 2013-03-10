@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 4</title>
+</head>
+<body>
+    <div>
+        <h3>Problem Definition</h3>
+        <p>Sort 3 real values in descending order using nested if statements.</p>
+    </div>
+    <div>
+        <h3>JavaScript Code as text</h3>
+        <pre><code>
+var a = 6.343;
+var b = 8.234;
+var c = 6.899;
+
+if (a >= b) {
+    if (a >= c) {
+        if (b <= c) {
+            //swap( b,  c);
+            var temp = b;
+            b = c;
+            c = temp;
+        }
+    }
+    else {
+        //swap( a,  c);
+        var temp = a;
+        a = c;
+        c = temp;
+        //swap( b,  c); 
+        var temp = b;
+        b = c;
+        c = temp;
+    }
+}
+else if (b >= c) {
+    //swap( a,  b);
+    var temp = a;
+    a = b;
+    b = temp;
+
+    if (b <= c) {
+        //swap(b, c);
+        var temp = b;
+        b = c;
+        c = temp;
+    }
+}
+else {
+    //swap(a, c);
+    var temp = a;
+    a = c;
+    c = temp;
+}
+
+document.writeln("a=" + a);
+document.writeln("b=" + b);
+document.writeln("c=" + c);            
+        </code></pre>
+    </div>
+    <h3>Result:</h3>
+    <script src="../js/Task4.js"></script>
+</body>
+</html>

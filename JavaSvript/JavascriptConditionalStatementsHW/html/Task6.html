@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 6</title>
+    <link href="../css/js-console.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div>
+        <h3>Problem Definition</h3>
+        <p>Write a script that enters the coefficients a, b and c of a quadratic equation
+		    a*x2 + b*x + c = 0
+		    and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots.
+        </p>
+    </div>
+    <div>
+        <h3>Input</h3>
+        <label>Enter:  a</label>
+        <input type="text" id="coeffA"/>
+        <label>Enter:  b</label>
+        <input type="text" id="coeffB"/>
+        <label>Enter:  c</label>
+        <input type="text" id="coeffC"/>
+        <button  onclick="OnCalculate()" >Calculate</button>
+    </div>
+    <h3>Result:</h3>
+    <div id="console"></div>
+    <script src="../js/js-console.js"></script>
+    <script src="../js/Task6.js"></script>
+</body>
+</html>

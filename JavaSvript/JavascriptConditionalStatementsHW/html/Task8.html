@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task8</title>
+    <link href="../css/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <h3>Problem Definition</h3>
+        <p>Write a script that converts a number in the range [0...999] to a text corresponding to its English pronunciation. Examples:<br />
+	0 "Zero"                                           <br/>
+	273 "Two hundred seventy three"                    <br/>
+	400 "Four hundred"                                 <br/>
+	501 "Five hundred and one"                         <br/>
+	711 "Seven hundred and eleven"                     <br/>
+
+        </p>
+    </div>
+    <div>
+        <h3>Input</h3>
+        <label>Enter  number between 0 and 999</label>                 
+        <input type="text" id="num"/>               <br/>     
+        <button  onclick="OnCalculate()" >Display num as text</button>
+    </div>
+    <h3>Result:</h3>
+    <div id="console"></div>
+    <script src="../js/js-console.js"></script>
+    <script src="../js/Task8.js"></script>
+</body>
+</html>

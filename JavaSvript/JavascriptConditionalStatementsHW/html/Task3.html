@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 3</title>
+</head>
+<body>
+    <div>
+        <h3>Problem Definition</h3>
+        <p>Write a script that finds the biggest of three integers using nested if statements.</p>
+    </div>
+    <div>
+        <h3>JavaScript Code as text</h3>
+        <pre><code>
+var a = 3;                                        
+var b = 5;                                        
+var c = 8;                                        
+var max;                                          
+var min;                                          
+                                                              
+if (a >= b) {                                     
+    if (a >= c) {                                 
+        max = a;                                  
+        if (b >= c)                               
+            min = c;                              
+        else                                      
+            min = b;                              
+    }                                             
+    else {                                        
+        max = c;                                  
+        min = b;                                  
+    }                                             
+}                                                 
+else if (b >= c) {                                
+    max = b;                                      
+    if (a >= c)                                   
+        min = c;                                  
+    else                                          
+        min = a;                                  
+}                                                 
+else {                                            
+    max = c;                                      
+    if (a >= b)                                   
+        min = b;                                  
+    else                                          
+        min = a;                                  
+}                                                 
+document.writeln("max =" + max);                  
+document.writeln("min =" + min);                  
+        </code></pre>
+    </div>
+    <h3>Result:</h3>
+    <script src="../js/Task3.js"></script>
+</body>
+</html>

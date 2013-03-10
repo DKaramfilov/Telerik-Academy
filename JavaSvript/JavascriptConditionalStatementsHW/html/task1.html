@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task 1</title>
+</head>
+<body>
+    <div>
+        <h3>Problem Definition</h3>
+        <p>Write an if statement that examines two integer variables and exchanges their values if the first one is greater than the second one.</p>
+    </div>
+    <div>
+        <h3>JavaScript Code as text</h3>                  
+        <pre>                                               
+var a = 63;                                   
+var b = 53;                                   
+document.writeln("before exchange \n");       
+document.writeln("a=" + a);                   
+document.writeln("b=" + b);                   
+                                                          
+if (a > b) {                                  
+    var temp = a;                             
+    a = b;                                    
+    b = temp;                                 
+}                                             
+document.writeln("after exchange \n");        
+document.writeln("a=" + a);                   
+document.writeln("b=" + b);                   
+                                                          
+        </pre>
+    </div>
+    <h3>Result:</h3>
+    <script src="../js/Task1.js"></script>
+</body>
+</html>
