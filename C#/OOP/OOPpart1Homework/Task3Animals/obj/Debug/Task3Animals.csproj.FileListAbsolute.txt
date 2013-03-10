@@ -1,0 +1,4 @@
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task3Animals\bin\Debug\Task3Animals.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task3Animals\bin\Debug\Task3Animals.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task3Animals\obj\Debug\Task3Animals.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task3Animals\obj\Debug\Task3Animals.pdb

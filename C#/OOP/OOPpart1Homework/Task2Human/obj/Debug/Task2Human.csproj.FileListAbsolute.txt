@@ -2,4 +2,3 @@ C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\
 C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task2Human\bin\Debug\Task2Human.pdb
 C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task2Human\obj\Debug\Task2Human.exe
 C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task2Human\obj\Debug\Task2Human.pdb
-C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task2Human\obj\Debug\Task2Human.csprojResolveAssemblyReference.cache
