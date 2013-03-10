@@ -1,0 +1,6 @@
+c:\users\vlado\documents\visual studio 2012\Projects\OOPpart1Homework\Task1School\bin\Debug\Task1School.exe.config
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task1School\bin\Debug\Task1School.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task1School\bin\Debug\Task1School.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task1School\obj\Debug\Task1School.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task1School\obj\Debug\Task1School.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart1Homework\Task1School\obj\Debug\Task1School.pdb
