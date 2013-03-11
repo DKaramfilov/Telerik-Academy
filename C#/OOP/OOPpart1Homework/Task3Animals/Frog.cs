@@ -13,7 +13,7 @@ namespace Task3Animals
         {
             Console.WriteLine("Frog croak");
         }
-        public override void SetGender(GenderType gender)
+        public sealed override void SetGender(GenderType gender)
         {
             base.gender = gender;
         }

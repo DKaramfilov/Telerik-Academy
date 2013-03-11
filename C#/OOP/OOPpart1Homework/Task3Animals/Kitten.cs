@@ -15,7 +15,11 @@ namespace Task3Animals
         {
             Console.WriteLine("Kitten meow");
         }
-        
+        public sealed override void SetGender(GenderType gender)
+        {
+            Console.WriteLine("Kitten is Female");
+            throw new NotImplementedException();
+        }
 
         
     }

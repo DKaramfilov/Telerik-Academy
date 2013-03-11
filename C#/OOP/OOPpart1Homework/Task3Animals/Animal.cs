@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task3Animals
 {
-    abstract class Animal
+    class Animal
     {
         private string name;
         private int age;
@@ -21,13 +21,13 @@ namespace Task3Animals
             this.name = name;
         }
 
-        public virtual GenderType Gender
+        public  GenderType Gender
         {
             get
             {
                 return this.gender;
             }
-            protected set
+            private set
             {
                 this.gender = value;
             }
@@ -57,7 +57,19 @@ namespace Task3Animals
             }
         }
 
-        public abstract void SetGender(GenderType gender);
+        public virtual void SetGender(GenderType gender)
+        {
+            this.gender = gender;
+        }
+        public static double AverageAge(Animal[] animals)
+        {
+            double sum = 0;
+            foreach (Animal age in animals)
+            {
+                sum += age.Age;
+            }
+            return sum/animals.Length;
+        }
        
     }
 }

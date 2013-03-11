@@ -14,10 +14,10 @@ namespace Task3Animals
         {
             Console.WriteLine("Cat meow");
         }
-        public sealed override void SetGender(GenderType gender)
+        public  override  void SetGender(GenderType gender)
         {
             base.gender = gender;
         }
-        
+       
     }
 }
