@@ -5,3 +5,6 @@ C:\Users\Administrator\Documents\Visual Studio 2012\Projects\OOPpart2HW\Shapes\o
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\OOPpart2HW\Shapes\obj\Debug\Shapes.pdb
 C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\Shapes\obj\Debug\Shapes.exe
 C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\Shapes\bin\Debug\Shapes.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
