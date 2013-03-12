@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstNationalTalerikBank", "FirstNationalTalerikBank\FirstNationalTalerikBank.csproj", "{6F15448E-28F0-404C-90B4-BC72E0A032E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomExeption", "CustomExeption\CustomExeption.csproj", "{436535D5-7B4C-49EF-991F-AF04212ABAF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{6F15448E-28F0-404C-90B4-BC72E0A032E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F15448E-28F0-404C-90B4-BC72E0A032E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F15448E-28F0-404C-90B4-BC72E0A032E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436535D5-7B4C-49EF-991F-AF04212ABAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436535D5-7B4C-49EF-991F-AF04212ABAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436535D5-7B4C-49EF-991F-AF04212ABAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436535D5-7B4C-49EF-991F-AF04212ABAF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
