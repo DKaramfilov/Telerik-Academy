@@ -44,13 +44,16 @@
     <Compile Include="Bank.cs" />
     <Compile Include="Comapany.cs" />
     <Compile Include="CustomerAcount.cs" />
-    <Compile Include="Customers.cs" />
+    <Compile Include="Customer.cs" />
     <Compile Include="Deposit.cs" />
     <Compile Include="IndividualCustomer.cs" />
     <Compile Include="Loan.cs" />
     <Compile Include="MainClass.cs" />
     <Compile Include="Mortgage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BankDiagram.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

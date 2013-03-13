@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\FirstNationalTalerikBank\obj\Debug\FirstNationalTalerikBank.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\FirstNationalTalerikBank\bin\Debug\FirstNationalTalerikBank.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\FirstNationalTalerikBank\bin\Debug\FirstNationalTalerikBank.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\FirstNationalTalerikBank\obj\Debug\FirstNationalTalerikBank.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\FirstNationalTalerikBank\obj\Debug\FirstNationalTalerikBank.pdb

@@ -2,3 +2,4 @@ C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\Custom
 C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\CustomExeption\bin\Debug\CustomExeption.pdb
 C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\CustomExeption\obj\Debug\CustomExeption.exe
 C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\CustomExeption\obj\Debug\CustomExeption.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\OOPpart2HW\CustomExeption\obj\Debug\CustomExeption.csprojResolveAssemblyReference.cache
