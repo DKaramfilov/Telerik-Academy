@@ -1,20 +1,27 @@
 ﻿function OnButtonClick() {
     var first = jsConsole.read("#first");
     var second = jsConsole.read("#second");
-
-    var shorter;
-    if (first.length < second.length) {
-        shorter = first;
+    var equal = true;
+    
+    if (first.length < second.length || first.length > second.length) {
+        equal = false;
+        
     }
     else {
-        shorter = second;
+        for (var i = 0; i < first.length; i++) {
+            if (first[i] != second[i]) {
+                equal = false;
+            }
+        }
     }
-    for (var i = 0; i < shorter.length; i++) {
-        if (first[i] < second[i])
-            bigger = true;
+    
+    if (equal == true) {
+        jsConsole.writeLine("Arrays are equal");
     }
-    jsConsole.writeLine(f);
-    jsConsole.writeLine(s);
+    else {
+        jsConsole.writeLine("Arrays are not equal");
+    }
+    
 
 
 
