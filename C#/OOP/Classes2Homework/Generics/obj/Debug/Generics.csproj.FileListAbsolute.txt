@@ -10,3 +10,6 @@ C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics
 C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\bin\Debug\Generics.pdb
 C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\bin\Debug\Generics.exe.config
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\obj\Debug\Generics.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\Generics\obj\Debug\Generics.pdb

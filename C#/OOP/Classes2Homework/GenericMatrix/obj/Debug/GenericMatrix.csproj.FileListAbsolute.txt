@@ -7,3 +7,6 @@ C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericM
 C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\bin\Debug\GenericMatrix.exe.config
 C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\obj\Debug\GenericMatrix.exe
 C:\Users\VLADO\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\obj\Debug\GenericMatrix.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\bin\Debug\GenericMatrix.exe.config
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\obj\Debug\GenericMatrix.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Classes2Homework\GenericMatrix\obj\Debug\GenericMatrix.pdb
