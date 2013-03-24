@@ -2,3 +2,7 @@ C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommonTypeSytem\Tas
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommonTypeSytem\Task4\bin\Debug\Task4.pdb
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommonTypeSytem\Task4\obj\Debug\Task4.exe
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommonTypeSytem\Task4\obj\Debug\Task4.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\CommonTypeSytem\Task4\obj\Debug\Task4.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\CommonTypeSytem\Task4\obj\Debug\Task4.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\CommonTypeSytem\Task4\bin\Debug\Task4.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\CommonTypeSytem\Task4\bin\Debug\Task4.pdb

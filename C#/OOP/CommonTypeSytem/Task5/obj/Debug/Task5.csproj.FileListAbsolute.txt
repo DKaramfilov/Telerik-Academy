@@ -1,1 +1,6 @@
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CommonTypeSytem\Task5\bin\Debug\Task5.exe.config
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\CommonTypeSytem\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\CommonTypeSytem\Task5\bin\Debug\Task5.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\CommonTypeSytem\Task5\bin\Debug\Task5.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\CommonTypeSytem\Task5\obj\Debug\Task5.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\CommonTypeSytem\Task5\obj\Debug\Task5.pdb
