@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task3</title>
+    <link href="../css/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <h3>Problem Definition</h3>
+        <p>Write a function that finds all the occurrences of word in a text<br />
+            The search can be case sensitive or case insensitive<br />
+            Use function overloading</p>
+        <h3>Text to search in.</h3>
+        <p id="text">
+            Windows Store apps are an important addition to Microsoft Windows 8, providing the
+cornerstone for a single, consistent programming and interaction model across desktops,
+tablets, and smartphones. The app user experience is very different from previous
+generations of Windows applications: Windows Store apps are full-screen and favor a
+style that is simple, direct, and free from distractions.
+Windows Store apps represent a complete departure from previous versions of
+Windows. There are entirely new APIs, new interaction controls, and a very different
+approach to managing the life cycle of applications.
+Windows Store apps can be developed using a range of languages, including
+JavaScript, Visual Basic, C++, and, the topic of this book, C#. Windows 8 builds on the
+familiar to let developers use their existing C# and XAML experience to build rich apps
+and integrate into the wider Windows platform. This book gives you an essential jump
+start into the world of Windows Store apps; by the end, you will understand how to use
+the controls and features that define the core Windows Store app experience. windows windows 
+        </p>
+        <div>
+
+        <h3>Input</h3>
+        <label>Enter word to search:</label>          <br/>
+        <input type="text" id="first" />                          <br/>       
+        <label>Case sensitive:</label><input type="checkbox" onclick="if (this.checked) { caseSense = true; } else { caseSense = false; }" />      <br/>                    
+        <button onclick="OnButtonClick()">Find</button>               <br/>
+    </div>
+        
+    </div>
+    <div>
+        <h3>Result:</h3>
+    </div>
+    <div id="js-console" />
+    <script src="../javascript/js-console.js"></script>
+    <script src="../JavaScript/Task3.js"></script>
+</body>
+</html>

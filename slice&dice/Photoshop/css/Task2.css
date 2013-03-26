@@ -1,0 +1,32 @@
+﻿.radio {
+    display: none;
+}
+
+    .radio + img {
+        display: none;
+    }
+
+    .radio:checked + img {
+        display: inline-block;
+        margin-right:50px;
+        margin-top: 20px;
+    }
+#wrap label {
+    padding:0;   
+    display: block;    
+}
+#side {
+   display:inline-block; 
+}
+#midLabel {
+    margin:44px 0;
+}
+
+#wrap  img {
+    border: 1px solid  black;
+    box-shadow: 3px 3px 3px black;
+    height: 400px;
+}
+#side img {
+    height:100px
+}

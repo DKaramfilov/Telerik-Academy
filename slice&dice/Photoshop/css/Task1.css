@@ -1,0 +1,30 @@
+﻿#wrap button {
+    margin: 15px;
+    padding: 0 20px;
+    width: 110px;
+    height:26px;
+    font: 20px Cabria, serif;  
+    border:medium; 
+    border-radius: 13px;    
+    background: url(http://localhost:57686/images/buttonBackground.png);       
+    box-shadow: 4px 4px 4px rgba(197,218,229,.5);
+}
+#test {
+display:inline-block;
+padding: 0 20px;
+width: 110px;
+height:26px; 
+width: 220px;
+border:medium; 
+border-radius: 13px;    
+background: url(http://localhost:57686/images/buttonBackground.png);
+box-shadow: 4px 4px 4px rgba(197,218,229,.5);
+}
+    #test a {
+        font: 20px Cabria, serif;
+        text-decoration:none;
+        color:black;
+    }
+        #test a:hover {
+            text-decoration:underline;
+        }

@@ -3,3 +3,5 @@ C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMeth
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task2\obj\Debug\Task2.exe
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task2\obj\Debug\Task2.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task2\obj\Debug\Task2.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task2\obj\Debug\Task2.pdb

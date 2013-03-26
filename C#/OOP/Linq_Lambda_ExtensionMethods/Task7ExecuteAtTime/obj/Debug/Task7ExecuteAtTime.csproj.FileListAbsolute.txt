@@ -3,3 +3,8 @@ C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMeth
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task7ExecuteAtTime\bin\Debug\Task7ExecuteAtTime.pdb
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task7ExecuteAtTime\obj\Debug\Task7ExecuteAtTime.exe
 C:\Users\Mitko\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task7ExecuteAtTime\obj\Debug\Task7ExecuteAtTime.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task7ExecuteAtTime\obj\Debug\Task7ExecuteAtTime.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task7ExecuteAtTime\obj\Debug\Task7ExecuteAtTime.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task7ExecuteAtTime\bin\Debug\Task7ExecuteAtTime.exe
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task7ExecuteAtTime\bin\Debug\Task7ExecuteAtTime.pdb
+C:\Users\Administrator\Documents\GitHub\Telerik-Academy\C#\OOP\Linq_Lambda_ExtensionMethods\Task7ExecuteAtTime\obj\Debug\Task7ExecuteAtTime.csprojResolveAssemblyReference.cache
