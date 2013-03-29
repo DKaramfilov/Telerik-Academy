@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Task7</title>
+    <link href="../css/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div>
+        <h3>Problem Definition</h3>
+        <p>Write a script that parses an URL address given in the format:<br />
+        <code>[protocol]://[server]/[resource]</code>
+		and extracts from it the [protocol], [server] and [resource] elements. Return the elements in a JSON object.For example from the URL http://www.devbg.org/forum/index.php the following information should be extracted:<br />
+            <code>
+{protocol: "http",
+server: "www.devbg.org", 
+resource: "/forum/index.php"}
+
+            </code>
+</p>
+        <div>
+            <h3>Input</h3> 
+            <label>Enter valid url</label>                  <br/>
+            <input type="text" id="textURL" style="width: 500px;" />     <br/> 
+            <button onclick="OnButtonClick()" >Display Result</button>            <br/>   
+        </div>  
+     </div>
+
+    <div>
+        <h3>Result:</h3>
+    </div>
+    <div id="js-console" />
+    <script src="../javascript/js-console.js"></script>
+    <script src="../javascript/Task7.js"></script>
+</body>
+</html>
