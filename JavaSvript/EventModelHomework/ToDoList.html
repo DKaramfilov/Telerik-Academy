@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>To do list</title>
+</head>
+<body>
+    <div id="wprapeer">
+        <h3>To Do List</h3>
+
+        <form > 
+            <input type="text" id="taskInput" />
+
+            <button onclick="onAddTask();">Add New Task</button>
+
+            <button onclick="onRemoveTask();">Remove Last Task</button>
+            
+
+            <button onclick="onShowHide();"> Show Hide</button>
+        </form>
+        <div>
+            <ol id="toDoList" reversed>
+                <li>Sample Task</li>
+            </ol>
+        </div>
+    </div>
+    <script src="Todo.js"></script>
+</body>
+</html>

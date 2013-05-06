@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title></title>
+        <link href="corouselStyle.css" rel="stylesheet" />
+        <script src="carousel.js"></script>
+    </head>
+    <body>
+        <div id="wrapper">
+            <table >
+                <caption>
+                    <strong>Simple Carousel</strong>
+                </caption>
+                <tr>
+                    <td width="100%">
+                        <img src="img/1.jpg" width="500" height="350" name="photoslider">
+                    </td>
+                </tr>
+                <tr>
+                    <td width="100%">
+                        <form method="POST" name="rotater">
+                            <div align="center">
+                                <input type="button" value="&lt;&lt;Back" name="B2"
+                                       onClick="backward()">
+                                <input type="button" value="Next&gt;&gt;" name="B1"
+                                       onClick="forward()"><br>
+                                <a href="#" onClick="which = 1;backward();return false">
+                                    <small>Start Over</small>
+                                </a>
+
+                            </div>
+                        </form>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>
